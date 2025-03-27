@@ -72,7 +72,7 @@ app.listen(PORT, () => console.log(`Server running on port ${PORT}`))*/
 
 
 
-require("dotenv").config();
+/*require("dotenv").config();
 const express = require("express");
 const mysql = require("mysql2");
 require("dotenv").config();
@@ -142,4 +142,4 @@ app.get("/listSchools", (req, res) => {
 app.listen(port, () => {
     console.log(`Server running on port ${port}`);
 });
-
+*/
